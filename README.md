@@ -15,15 +15,17 @@ This is the **frontend of a Food Delivery Web Application** built using **React.
 
 ## 📁 Project Structure
 
-Food_Delivery_App/ 
-├── public/ # Static files like index.html
-├── src/ # React components and app logic │ 
-├── components/ # Reusable UI components (e.g., Navbar) │ 
-├── pages/ # Dummy page components (Home, Menu, etc.) │ 
-└── App.js # Main App component
-├── package.json # Project metadata and dependencies 
-├── .gitignore # Files/folders ignored by Git 
-└── README.md # Project documentation
+<pre>
+Food_Delivery_App/
+├── public/             # Static files like index.html
+├── src/                # React components and app logic
+│   ├── components/     # Reusable UI components (e.g., Navbar)
+│   ├── pages/          # Dummy page components (Home, Menu, etc.)
+│   └── App.js          # Main App component
+├── package.json        # Project metadata and dependencies
+├── .gitignore          # Files/folders ignored by Git
+└── README.md           # Project documentation
+</pre>
 
 ---
 
@@ -51,8 +53,5 @@ Food_Delivery_App/
    ```bash
    git clone https://github.com/atharvaajaj/Food_Delivery_App
 2. Navigate to the project folder
-   cd Food_Delivery_App
-3.Install dependencies
- npm install
-4.Start the development server
-  npm start
+3. Install dependencies
+4.  Start the development server  
